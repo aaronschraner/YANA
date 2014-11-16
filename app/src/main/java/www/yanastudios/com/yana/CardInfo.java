@@ -1,3 +1,4 @@
+package www.yanastudios.com.yana;
 //CardInfo class
 //Holds all the information that will appear on a card
 public class CardInfo
