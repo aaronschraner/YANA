@@ -1,3 +1,4 @@
+package www.yanastudios.com.yana;
 //Adapter to go from CardInfo (with card data) to Card View (with same data)
 public class CardAdapter extends ArrayAdapter<CardInfo>
 {
