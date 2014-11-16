@@ -1,4 +1,6 @@
 package www.yanastudios.com.yana
+import android.app.Activity;
+import android.os.Bundle;
 
 public class HomeActivity extends Activity
 {
